@@ -1,8 +1,0 @@
-2024-11-10 15:08:04,957 - INFO - Surveillance du dossier activée...
-2024-11-10 15:08:33,971 - INFO - Fichier détecté : D:/Ditch/Dev/script/testPython/source\Doctor Strange in the Multiverse of Madness (2022) Hybrid MULTi VFF 2160p 10bit 4KLight DOLBY VISION BluRay TrueHD Atmos 7.1 x265-QTZ.mp4
-2024-11-10 15:08:34,479 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
-2024-11-10 15:08:34,716 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/multi?api_key=91b407ab3739e3b3ea119ea305bcf591&query=Doctor+Strange+in+the+Multiverse+of+Madness+%28&year=2022 HTTP/11" 200 None
-2024-11-10 15:08:34,823 - INFO - Dossier créé : D:/Ditch/Dev/script/testPython/destination/films\Doctor Strange in the Multiverse of Madness (2022)(2022)
-2024-11-10 15:08:36,047 - ERROR - Attente : le fichier Doctor Strange in the Multiverse of Madness (2022) Hybrid MULTi VFF 2160p 10bit 4KLight DOLBY VISION BluRay TrueHD Atmos 7.1 x265-QTZ.mp4 est encore en cours d'utilisation...
-2024-11-10 15:08:36,126 - INFO - Déplacé dans D:/Ditch/Dev/script/testPython/destination/films\Doctor Strange in the Multiverse of Madness (2022)\Doctor Strange in the Multiverse of Madness (2022) Hybrid MULTi VFF 2160p 10bit 4KLight DOLBY VISION BluRay TrueHD Atmos 7.1 x265-QTZ.mp4
-2024-11-10 15:14:01,450 - INFO - Surveillance interrompue par l'utilisateur.
