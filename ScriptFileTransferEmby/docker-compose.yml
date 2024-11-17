@@ -1,0 +1,14 @@
+version: '3'
+services:
+  scriptfiletransferemby:
+    build: .
+    volumes:
+      - D:/Ditch/Dev/script/testPython/source:/app/source
+      - D:/Ditch/Dev/script/testPython/destination:/app/destination
+      - ./log:/app/log
+    environment:
+      - SOURCE_DIR=/app/source
+      - DEST_DIR=/app/destination
+    command: python /app/scriptFolderTransferEmby.py
+    ports:
+      - "5000:5000"
